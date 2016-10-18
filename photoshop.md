@@ -106,19 +106,31 @@ Er zijn 2 soorten layer Masks:
 
 Er kan ook een combinatie worden gemaakt van pixel masks en vector Masks (dit is meestal het geval)
 
-Hoe maak je een layer Mask?
+##### Hoe maak je een layer Mask?
 
-1. Open cactus.jpg
-2. Maak de afbeelding bewerkbaar door op het slotje te klikken in de layer panel
-3. Selecteer de "quick selection tool" in het gereedschappen panel
-4. Maak de selectie door met de muis over het gewenste gebied te slepen, om extra delen toe te voegen aan jouw selectie maak je gebruik van de "shift-toets" om delen van je selectie te deselecteren maak je gebruik van de "alt-toets".
-5. Eenmaal je tevreden bent met de gemaakte selectie, klik je op het icoontje "add layer mask" in de layer panel
-
+- Open cactus.jpg
+- Maak de afbeelding bewerkbaar door op het slotje te klikken in de layer panel
+- Selecteer de "quick selection tool" in het gereedschappen panel
+- Maak de selectie door met de muis over het gewenste gebied te slepen, om extra delen toe te voegen aan jouw selectie maak je gebruik van de "shift-toets" om delen van je selectie te deselecteren maak je gebruik van de "alt-toets".
 
 ![Create a layer mask part 1](https://cl.ly/2N3e160p2g1P/Screen%20Recording%202016-10-18%20at%2010.17%20PM.gif "Layer Masks")
 
+- Eenmaal je tevreden bent met de gemaakte selectie, klik je op het icoontje "add layer mask" in de layer panel
+- Nu zie je dat de achtergrond verborgen is en dat je een transparante achtergrond hebt.
+- Ja kan nu bijvoorbeeld een andere achtergrondkleur gebruiken door een nieuwe layer te maken en deze te vullen met een kleur.
+
 ![Create a layer mask part 2](https://cl.ly/12271f1e0x1B/Screen%20Recording%202016-10-18%20at%2010.29%20PM.gif "Layer Masks")
 
+- Je kan de selectie achteraf nog verfijnen of delen van de foto terug zichtbaar maken of verbergen. Dit doe je a.d.h.v. de brush tool.
+- Selecteer de brush / penseel tool uit het gereedschappen / tools panel (dit kan ook door op de toets "b" te drukken).
+- Vervolgens bepaal je de grootte van de penseel via het menu vanboven.
+
+![Create a layer mask part 3](https://cl.ly/3m3r1V1n3L2s/Screen%20Recording%202016-10-18%20at%2010.58%20PM.gif "Layer Masks")
+
+- Om delen van de foto terug zichtbaar te maken gebruik je de penseel met witte kleur.
+- Om delen van de foto te verbergen gebruik je de penseel met zwarte achtergrond
+
+![Create a layer mask part 4](https://cl.ly/2C0O1h3u3f2Q/Screen%20Recording%202016-10-18%20at%2011.02%20PM.gif "Layer Masks")
 
 
 
