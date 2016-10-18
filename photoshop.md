@@ -97,6 +97,30 @@ Elke soort layer style heeft op zijn beurt nog een heleboel settings / instellin
 Een layer style kan je ook opslaan en kan je dan vervolgens opnieuw gebruiken op een andere layer.
 Om dit te doen klik je op de button "New Style" en geef je de layer style een gewenste naam.
 
+#### 1.4 Layer Masks
+Layer masks worden gebruikt om bepaalde delen van een foto te verbergen / weer te geven.
+
+Er zijn 2 soorten layer Masks:
+1. Pixel Masks
+2. Vector Masks
+
+Er kan ook een combinatie worden gemaakt van pixel masks en vector Masks (dit is meestal het geval)
+
+Hoe maak je een layer Mask?
+
+1. Open cactus.jpg
+2. Maak de afbeelding bewerkbaar door op het slotje te klikken in de layer panel
+3. Selecteer de "quick selection tool" in het gereedschappen panel
+4. Maak de selectie door met de muis over het gewenste gebied te slepen, om extra delen toe te voegen aan jouw selectie maak je gebruik van de "shift-toets" om delen van je selectie te deselecteren maak je gebruik van de "alt-toets".
+5. Eenmaal je tevreden bent met de gemaakte selectie, klik je op het icoontje "add layer mask" in de layer panel
+
+
+![Create a layer mask part 1](https://cl.ly/2N3e160p2g1P/Screen%20Recording%202016-10-18%20at%2010.17%20PM.gif "Layer Masks")
+
+![Create a layer mask part 2](https://cl.ly/12271f1e0x1B/Screen%20Recording%202016-10-18%20at%2010.29%20PM.gif "Layer Masks")
+
+
+
 
 
 --------------------
