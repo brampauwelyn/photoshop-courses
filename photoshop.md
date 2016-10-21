@@ -10,6 +10,8 @@ Start 15 november
 3. Photoshop vs Illustrator
 4. Shortcuts
 5. Menus
+6. Plugins
+7. Other resources
 
 # Introductie
 Ik ben Bram, 25 jaar oud.
@@ -131,6 +133,65 @@ Er kan ook een combinatie worden gemaakt van pixel masks en vector Masks (dit is
 - Om delen van de foto te verbergen gebruik je de penseel met zwarte achtergrond
 
 ![Create a layer mask part 4](https://cl.ly/2C0O1h3u3f2Q/Screen%20Recording%202016-10-18%20at%2011.02%20PM.gif "Layer Masks")
+
+DIY
+
+##### 1.4.1 Vector Masks
+
+1. Unlock background
+2. Maak selectie met de ovaal
+3. Teken de cirkel over sinaasappel, het is niet erg als de cirkel niet 100 % op de appelsien past, je kan de selectie achteraf aanpassen met de direct select tool (shortcut a), klik op het pad en je zal zien dat er vierkantjes te voorschijn komen dit heten we beziers.
+4. In de menu ga naar layer > vector mask > current path
+5. achteraf kan je nog altijd met de direct select tool de selectie aanpassen.
+
+##### 1.4.2 Masks Gradients.
+
+Gradient tool,
+Zwart verbergt delen van de foto, wit maakt delen van de foto zichtbaar
+Selecteer de bovenste layer en selecteer create layer mask (icoon in de layer panel)
+Gebruik de gradient (black to white).
+
+ Soorten gradianten:
+ 1. Lineair
+ 2. Radial (radiaal)
+
+#### 1.5 Type  / Tekst
+
+Om tekst toe te voegen aan jouw photoshop file gebruik je de type tool.
+Deze vind je terug in de gereedschappen panel of kan je selecteren via de shortcut "t".
+
+Als je via de gereedschappen panel op de T drukt, zie je dat er een extra menu uitkomt. Daarin zie je dat je zowel horizontal als verticale tekst kan invoegen.
+
+Selecteer de horizontale type tool.
+Vervolgens zijn er 2 manier om tekst toe te voegen aan je document.
+
+1. Je klikt gewoon met de cursor op de gewenste plaats en typ / plak je tekst. Deze methode heet (point-type).
+
+
+
+2. De tweede methode is om met de type tool een gebied te selecteren en dan je tekst typen / plakken. Deze manier heet Area type en dit is ook meteen de beste manier.
+
+
+
+
+Als je tevreden bent met de tekst klik je op het groen vinkje de optie menu bovenaan.
+
+In de optie menu balk (dit menu verandert naargelang de tool / gereedschap je selecteert) kan je ook de font-family (lettertype) aanpassen en de grootte van het lettertype alsook de tekststijl (bold, italic, light, regular), de tekstuitlijning (link, centreren,rechts) en de kleur van de tekst.
+
+In de optie menu balk vind je al een groot deel van de opties voor tekst.
+Je kan nog veel meer opties bekijken via het character / paragraph panel. Deze panel kun je openen via het icoontje uiterst rechts in de optie menu balk.
+
+![Character and Paragraph panel](https://d17oy1vhnax1f7.cloudfront.net/items/400k382I0j2X2D0a0z0K/Image%202016-10-21%20at%208.52.04%20PM.2m0f2N2u2S3b.png "Character and Paragraph panel")
+
+
+
+
+
+
+
+
+
+
 
 
 
