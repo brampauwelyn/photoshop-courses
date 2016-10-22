@@ -138,11 +138,23 @@ DIY
 
 ##### 1.4.1 Vector Masks
 
-1. Unlock background
-2. Maak selectie met de ovaal
+1. Open de afbeelding orange.jpg in photoshop
+1. Unlock de background
+2. Maak selectie met de oval shape tool, kies voor path in de optie menu balk
+
+![Create a vector mask part 1](https://cl.ly/1B2n3Q2I0S42/Screen%20Recording%202016-10-22%20at%2010.50%20PM.gif "Create a vector mask part 1")
+
+
+
 3. Teken de cirkel over sinaasappel, het is niet erg als de cirkel niet 100 % op de appelsien past, je kan de selectie achteraf aanpassen met de direct select tool (shortcut a), klik op het pad en je zal zien dat er vierkantjes te voorschijn komen dit heten we beziers.
+
+
+
 4. In de menu ga naar layer > vector mask > current path
 5. achteraf kan je nog altijd met de direct select tool de selectie aanpassen.
+
+
+
 
 ##### 1.4.2 Masks Gradients.
 
@@ -165,12 +177,14 @@ Als je via de gereedschappen panel op de T drukt, zie je dat er een extra menu u
 Selecteer de horizontale type tool.
 Vervolgens zijn er 2 manier om tekst toe te voegen aan je document.
 
-1. Je klikt gewoon met de cursor op de gewenste plaats en typ / plak je tekst. Deze methode heet (point-type).
+1) Je klikt gewoon met de cursor op de gewenste plaats en typ / plak je tekst. Deze methode heet point-type.
+
+![Point Type](https://cl.ly/0u293c2g1S01/Screen%20Recording%202016-10-22%20at%2010.35%20PM.gif "Type Tool: point type")
 
 
+2) De tweede methode is om met de type tool een gebied te selecteren en dan je tekst typen / plakken. Deze manier heet Area type en dit is ook meteen de beste manier.
 
-2. De tweede methode is om met de type tool een gebied te selecteren en dan je tekst typen / plakken. Deze manier heet Area type en dit is ook meteen de beste manier.
-
+![Area Type](https://cl.ly/2N3K2O3m3J15/Screen%20Recording%202016-10-22%20at%2010.38%20PM.gif "Area Type")
 
 
 
@@ -182,8 +196,6 @@ In de optie menu balk vind je al een groot deel van de opties voor tekst.
 Je kan nog veel meer opties bekijken via het character / paragraph panel. Deze panel kun je openen via het icoontje uiterst rechts in de optie menu balk.
 
 ![Character and Paragraph panel](https://d17oy1vhnax1f7.cloudfront.net/items/400k382I0j2X2D0a0z0K/Image%202016-10-21%20at%208.52.04%20PM.2m0f2N2u2S3b.png "Character and Paragraph panel")
-
-
 
 
 
