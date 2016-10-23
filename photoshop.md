@@ -12,6 +12,7 @@ Start 15 november
 5. Menus
 6. Plugins
 7. Other resources
+8. Stock Photos
 
 # Introductie
 Ik ben Bram, 25 jaar oud.
@@ -224,8 +225,27 @@ Je kan nog veel meer opties bekijken via het character / paragraph panel. Deze p
 ![Character and Paragraph panel](https://d17oy1vhnax1f7.cloudfront.net/items/400k382I0j2X2D0a0z0K/Image%202016-10-21%20at%208.52.04%20PM.2m0f2N2u2S3b.png "Character and Paragraph panel")
 
 Via dit menu kan je de tekst in hoofdletters / all caps omzetten of kan je de kerning (afstand tussen de karakters) van de tekst aanpassen. Via dit menu kan je ook bijvoorbeeld tekst omzetten naar upperscript of subscript...
+
 ![Character and Paragraph panel](https://cl.ly/3I262K1o0a2K/Image%202016-10-23%20at%201.49.53%20PM.png "Character and Paragraph panel")
 
+
+#### 1.5.1 Tekst en Smart Objects
+
+Als je effecten wil toepassen op een tekstlayer dan moet deze worden gerasterized. Het nadeel hiervan is dat de tekst nadien niet meer aanpasbaar is.
+We kunnen dit oplossen door er een smart object van te maken.
+
+Dit doe je door de tekstlayer te selecteren, rechtermuisknop, convert to smart object.
+
+![Type to Smart Object](https://cl.ly/3p2w0A2U1c3C/Screen%20Recording%202016-10-23%20at%2004.36%20PM.gif "Type to Smart Object")
+
+Om de tekst aan te passen nadat je een effect hebt toegevoegd moet je dubbel klikken op de smart layer thumbnail. Je kan de tekst aanpassen in een nieuw venster, door de type tool te selecteren en op de tekst te klikken.
+
+![Type to smart Object](https://cl.ly/3V0y1f0j0p0M/Screen%20Recording%202016-10-23%20at%2004.43%20PM.gif "Type to Smart Object")
+
+####  1.5.2 Tekst op een pad
+Soms moet je tekst typen op een vorm zoals een cirkel, vierkant, driehoek of op een complexere vorm. Dit kan je doen door tekst te typen op een pad.
+
+Dit doe je op de volgende manier:
 
 
 
