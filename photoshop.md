@@ -223,12 +223,8 @@ Je kan nog veel meer opties bekijken via het character / paragraph panel. Deze p
 
 ![Character and Paragraph panel](https://d17oy1vhnax1f7.cloudfront.net/items/400k382I0j2X2D0a0z0K/Image%202016-10-21%20at%208.52.04%20PM.2m0f2N2u2S3b.png "Character and Paragraph panel")
 
-
-
-
-
-
-
+Via dit menu kan je de tekst in hoofdletters / all caps omzetten of kan je de kerning (afstand tussen de karakters) van de tekst aanpassen. Via dit menu kan je ook bijvoorbeeld tekst omzetten naar upperscript of subscript...
+![Character and Paragraph panel](https://cl.ly/3I262K1o0a2K/Image%202016-10-23%20at%201.49.53%20PM.png "Character and Paragraph panel")
 
 
 
