@@ -138,34 +138,61 @@ DIY
 
 ##### 1.4.1 Vector Masks
 
-1. Open de afbeelding orange.jpg in photoshop
-1. Unlock de background
-2. Maak selectie met de oval shape tool, kies voor path in de optie menu balk
+- Open de afbeelding orange.jpg in photoshop
+- Unlock de background
+- Maak selectie met de oval shape tool, kies voor path in de optie menu balk
 
 ![Create a vector mask part 1](https://cl.ly/1B2n3Q2I0S42/Screen%20Recording%202016-10-22%20at%2010.50%20PM.gif "Create a vector mask part 1")
 
 
+- Teken de cirkel over sinaasappel. Het makkelijkste is om in het midden van de appelsien te gaan en vanuit het midden de cirkel te tekenen a.d.h.v. alt + shift. Het is niet erg als de cirkel niet 100 % op de appelsien past.
 
-3. Teken de cirkel over sinaasappel, het is niet erg als de cirkel niet 100 % op de appelsien past, je kan de selectie achteraf aanpassen met de direct select tool (shortcut a), klik op het pad en je zal zien dat er vierkantjes te voorschijn komen dit heten we beziers.
-
-
-
-4. In de menu ga naar layer > vector mask > current path
-5. achteraf kan je nog altijd met de direct select tool de selectie aanpassen.
+![Create a vector mask part 2](https://cl.ly/2r0S1Y3G1u0n/Screen%20Recording%202016-10-23%20at%2012.23%20PM.gif "Create a vector mask part 2")
 
 
+- Je kan de selectie nadien nog makkelijk aanpassen met de direct select tool (shortcut a), klik op het pad en je zal zien dat er vierkantjes te voorschijn komen dit heten we beziers.
 
+![Create a vector mask part 3](https://cl.ly/0c2S2L2m1P2e/Screen%20Recording%202016-10-23%20at%2012.34%20PM.gif "Create a vector mask part 3")
+
+- Om de vector mask te maken ga je via de menu naar layer > vector mask > current path
+
+![Create a vector mask part 4](https://cl.ly/1U2o0q1Z3s1v/Screen%20Recording%202016-10-23%20at%2012.41%20PM.gif "Create a vector mask part 4")
+
+- Achteraf kan je nog altijd met de direct select tool (shortcut a) de selectie aanpassen.
+Door de vierkantjes te verslepen of de beziers (cirkels) aan te passen.
+
+![Create a vector mask part 5](https://cl.ly/161m1h1x2q0O/Screen%20Recording%202016-10-23%20at%2012.44%20PM.gif "Create a vector mask part 5")
 
 ##### 1.4.2 Masks Gradients.
 
-Gradient tool,
-Zwart verbergt delen van de foto, wit maakt delen van de foto zichtbaar
-Selecteer de bovenste layer en selecteer create layer mask (icoon in de layer panel)
-Gebruik de gradient (black to white).
+- Maak een nieuw bestand, dit kan je doen via de menu menu file of via de shortcut cmd + n op mac en via ctrl + n op een windows.
+- Maak een bestand van 1200px breed op 800px hoog.
 
- Soorten gradianten:
+![Create a gradient mask part 1](https://cl.ly/3z1v1s29131C/Screen%20Recording%202016-10-23%20at%2012.58%20PM.gif "Create a gradient mask part 1")
+
+- Plaats de afbeeldingen plant1.jpeg en plant2.jpeg in de file. Elk in een apparte layer.
+
+![Create a gradient mask part 2](https://cl.ly/3C3T2Q2t1y2M/Screen%20Recording%202016-10-23%20at%2001.02%20PM.gif "Create a gradient mask part 2")
+
+![Create a gradient mask part 3](https://cl.ly/1m0A231a140t/Screen%20Recording%202016-10-23%20at%2001.14%20PM.gif "Create a gradient mask part 3")
+
+
+- Maak een vector mask door op het icoontje te klikken in de layer panel.
+- Selecteer vervolgens de gradient tool of via de shortcut "g", selecteer een zwart naar witte gradient in de optiebalk vanboven en selecteer het gebied dat je zichtbaar wil maken.
+
+![Create a gradient mask part 4](https://cl.ly/202n2Z2w3Q2Q/Screen%20Recording%202016-10-23%20at%2001.22%20PM.gif "Create a gradient mask part 4")
+
+- Je kan de selectie achteraf nog verfijnen via bijvoorbeeld de penseel tool. Gebruik zwart om delen te verbergen en wit om delen zichtbaar te maken.
+
+![Create a gradient mask part 4](https://cl.ly/0F0M1N2f2w1Z/Screen%20Recording%202016-10-23%20at%2001.36%20PM.gif "Create a gradient mask part 4")
+
+
+Er zijn 2 Soorten gradiënten:
  1. Lineair
  2. Radial (radiaal)
+
+![Different kinds of gradiants](https://cl.ly/2O37113q0i3F/Image%202016-10-23%20at%201.42.26%20PM.png "Different kinds of gradiants")
+
 
 #### 1.5 Type  / Tekst
 
@@ -185,7 +212,6 @@ Vervolgens zijn er 2 manier om tekst toe te voegen aan je document.
 2) De tweede methode is om met de type tool een gebied te selecteren en dan je tekst typen / plakken. Deze manier heet Area type en dit is ook meteen de beste manier.
 
 ![Area Type](https://cl.ly/2N3K2O3m3J15/Screen%20Recording%202016-10-22%20at%2010.38%20PM.gif "Area Type")
-
 
 
 Als je tevreden bent met de tekst klik je op het groen vinkje de optie menu bovenaan.
@@ -213,4 +239,30 @@ Je kan nog veel meer opties bekijken via het character / paragraph panel. Deze p
 - Lagen / Layers zijn een heel belangrijk concept in Photoshop.
 - De volgorde van de lagen bepalen wat je ziet.
 - Een nieuwe laag maken doe je met de volgende shortcut cmd + shift + n
-- Lagen groeperen doe je met de  
+- Lagen groeperen doe je met de  volgende shortcut cmd + g
+
+
+
+
+
+## Shortcuts
+
+http://www.creativebloq.com/photoshop/photoshop-shortcuts-1012966
+
+Create a new file:
+- MAC: cmd + n
+- Windows: ctrl + n
+
+Create a new layer:
+- MAC: shit + cmd + n
+- Windows: shift + ctrl + n
+
+Fill a layer:
+- MAC: alt + backspace (foreground) / cmd + backspace (background)
+- Windows: alt + delete (foreground) / ctrl + delete (background)
+
+
+
+### Photoshop Shortcuts Cheat Sheet
+
+![Photoshop shortcuts](https://2zpt4dwruy922flhqyznip50-wpengine.netdna-ssl.com/wp-content/uploads/2015/06/2015-adobe-photoshop-keyboard-shortcuts-cheat-sheet.jpg "Photoshop Shortcuts Cheat Sheet")
