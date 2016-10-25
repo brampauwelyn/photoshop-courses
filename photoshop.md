@@ -229,7 +229,7 @@ Via dit menu kan je de tekst in hoofdletters / all caps omzetten of kan je de ke
 ![Character and Paragraph panel](https://cl.ly/3I262K1o0a2K/Image%202016-10-23%20at%201.49.53%20PM.png "Character and Paragraph panel")
 
 
-#### 1.5.1 Tekst en Smart Objects
+##### 1.5.1 Tekst en Smart Objects
 
 Als je effecten wil toepassen op een tekstlayer dan moet deze worden gerasterized. Het nadeel hiervan is dat de tekst nadien niet meer aanpasbaar is.
 We kunnen dit oplossen door er een smart object van te maken.
@@ -242,13 +242,52 @@ Om de tekst aan te passen nadat je een effect hebt toegevoegd moet je dubbel kli
 
 ![Type to smart Object](https://cl.ly/3V0y1f0j0p0M/Screen%20Recording%202016-10-23%20at%2004.43%20PM.gif "Type to Smart Object")
 
-####  1.5.2 Tekst op een pad
+#####  1.5.2 Tekst op een pad
 Soms moet je tekst typen op een vorm zoals een cirkel, vierkant, driehoek of op een complexere vorm. Dit kan je doen door tekst te typen op een pad.
 
 Dit doe je op de volgende manier:
+- Teken een vorm (cirkel, vierkant of iets anders).
+- Selecteer de type tool via de shortcut "t" of selecteer hem via het gereedschapspanel
+- Hover met de teksttool over de rand van de vorm (je zal zien dat de cursor verandert) en klik om de tekst te typen
+
+![Type on path](https://cl.ly/451e3e0g313G/Screen%20Recording%202016-10-25%20at%2010.14%20PM.gif "Type on path")
+
+#####  1.5.3 Tekst in een pad
+
+Uiteraard kunnen we ook tekst in een pad plaatsen
+
+Dit doe je op een gelijkaardige manier:
+- Teken een vorm
+- Selecteer de typetool
+- Klik met de cursor in het pad / vorm en begin te typen
 
 
+![Type in path](https://cl.ly/2v0H1U2p0Z2u/Screen%20Recording%202016-10-25%20at%2010.31%20PM.gif "Type in path")
 
+#### 1.6 Vector Shapes
+
+Het voordeel van vector shapes is dat ze kunnen worden uitvergroot zonder verlies van kwaliteit.
+
+De vector tools bestaan uit:
+- De Pen tool
+- De Type tool
+- De direct selection tool
+- De shape tool
+
+![Vector Tools](https://cl.ly/3i2Q1o0W2k1x/Image%202016-10-25%20at%2010.39.46%20PM.png "Vector Tools")
+
+##### 1.6.1 Shape Tool
+
+![Shape Tool](https://cl.ly/122U293l2p0e/Image%202016-10-25%20at%2010.43.02%20PM.png "Shape Tool")
+
+Als je blijft klikken op de shape tool zal je zien dat er een extra menu uitklapt.
+De shape tool heeft de volgende opties:
+- Rectangle tool (rechthoek)
+- Rounded Rectangle tool (rechthoek met ronde randen)
+- Ellipse tool (ovaal /cirkel)
+- Polygon tool
+- Line tool
+- Custome Shape Tool
 
 --------------------
 :raised_hands:  RECAP / Herhaling
@@ -277,6 +316,9 @@ Fill a layer:
 - MAC: alt + backspace (foreground) / cmd + backspace (background)
 - Windows: alt + delete (foreground) / ctrl + delete (background)
 
+Group layers:
+- MAC: cmd + g
+- Windows: ctrl + g
 
 
 ### Photoshop Shortcuts Cheat Sheet
