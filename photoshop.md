@@ -375,6 +375,28 @@ Om in photoshop te slicen maken we gebruik van de "slice tool" deze vind je zoal
 ![Slice Tool](https://cl.ly/0b1f3Z1S0A2t/Image%202016-10-29%20at%204.47.00%20PM.png)
 
 
+Hoe slicen?
+- Open slicing.psd in Photoshop
+- Selecteer de slice tool (shortcut "c")
+- Vervolgens maak je een selectie door te slepen
+- De selectie kan je nadien nog aanpassen door over de rand te slepen aan de selectie aan te passen.
+
+![Slicing stap 1](https://cl.ly/1S1L2o1h1f3u/Screen%20Recording%202016-10-29%20at%2005.15%20PM.gif)
+
+- Vervolgens geef je de slice een gepaste naam. Dit doe je door dubbel te klikken op de slice of via rechtermuisknop "edit slice options".
+
+![Slicing stap 1](https://cl.ly/2k1F0d0s2S0Z/Screen%20Recording%202016-10-29%20at%2005.20%20PM.gif)
+
+- Dit doe je vervolgens voor alle elementen. Opgelet bij de cupcakes moet je enkel de afbeelding slicen dus niet de rand / border. Want de rand zal je via CSS maken (border).
+
+:zap: TIP slices met dezelfde grootte kan je dupliceren / kopiëren dit doe je door de slice te selecteren en op alt te drukken (en vervolgens met shift verplaatsen).
+
+![Duplicate slices](https://cl.ly/2r2p2E2h0Z2E/Screen%20Recording%202016-10-29%20at%2005.33%20PM.gif)
+
+
+:collision: Belangrijk bij het slicen is om met precisie te handelen. Er mogen geen stukken van de afbeelding worden afgesneden en er mag ook geen overbodige ruimte worden meegesliced.
+
+
 
 
 
