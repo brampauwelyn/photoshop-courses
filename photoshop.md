@@ -287,7 +287,37 @@ De shape tool heeft de volgende opties:
 - Ellipse tool (ovaal /cirkel)
 - Polygon tool
 - Line tool
-- Custome Shape Tool
+- Custom Shape Tool
+
+Om een vorm te maken selecteer je de shape tool naar keuze en sleep je de vorm op het artboard. Je kan de vorm een fill color (of een gradiënt) en een border color geven (de border style kan je ook aanpassen). Let op deze opties zoals fill color zijn alleen zichtbaar als de shape tool en de juiste layer is geselecteerd.
+
+![Shape Tool](https://cl.ly/1B1v3J1U341e/Screen%20Recording%202016-10-29%20at%2010.30%20AM.gif "Shape Tool")
+
+Je kan vormen ook samenvoegen, van elkaar aftrekken, etc.
+Dit doe je via het volgende incoontje in de optie menubar.
+
+![Shape Tool](https://cl.ly/3y030r363E1u/Image%202016-10-29%20at%2010.32.15%20AM.png "Shape Tool")
+
+![Shape Tool](https://cl.ly/3q241t2W1D3S/Screen%20Recording%202016-10-29%20at%2001.16%20PM.gif "Shape Tool")
+
+Achteraf kunnen we uiteraard ook de vorm aanpassen met de direct select tool
+
+Naast de traditionele vormen kan je in Photoshop ook kiezen voor de custom shape tool. De vorm kan je kiezen in de optie menu bar.
+
+![Custom Shape Tool](https://cl.ly/46383D0c1O1V/Screen%20Recording%202016-10-29%20at%2001.21%20PM.gif "Custom Shape Tool")
+
+Uit dit menu kan je nog meer vormen kiezen, dit doe je door te klikken op het tandwiel icoontje. Daarna kan je een categorie kiezen en worden de vormen ingeladen.
+
+![Custom Shape Tool](https://cl.ly/281J1q2z1G1O/Image%202016-10-29%20at%201.26.01%20PM.png "Custom Shape Tool")
+
+![Custom Shape Tool](https://cl.ly/0w0a360g0e1c/Screen%20Recording%202016-10-29%20at%2001.28%20PM.gif "Custom Shape Tool")
+
+##### 1.6.2 De Pen Tool
+
+
+
+
+
 
 --------------------
 :raised_hands:  RECAP / Herhaling
