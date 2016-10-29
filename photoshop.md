@@ -100,6 +100,8 @@ Elke soort layer style heeft op zijn beurt nog een heleboel settings / instellin
 Een layer style kan je ook opslaan en kan je dan vervolgens opnieuw gebruiken op een andere layer.
 Om dit te doen klik je op de button "New Style" en geef je de layer style een gewenste naam.
 
+#### 1.3 Clipping Masks
+
 #### 1.4 Layer Masks
 Layer masks worden gebruikt om bepaalde delen van een foto te verbergen / weer te geven.
 
@@ -313,6 +315,65 @@ Uit dit menu kan je nog meer vormen kiezen, dit doe je door te klikken op het ta
 ![Custom Shape Tool](https://cl.ly/0w0a360g0e1c/Screen%20Recording%202016-10-29%20at%2001.28%20PM.gif "Custom Shape Tool")
 
 ##### 1.6.2 De Pen Tool
+
+De pen tool wordt gebruikt om zelf vormen te tekenen.
+Dit kan je doen door de pentool te selecteren in het gereedschapspanel of via de shortcut "p".
+![Pen Tool](https://cl.ly/1w411w1G3y3l/Image%202016-10-29%20at%202.37.59%20PM.png "Pen Tool")
+
+
+We beginnen met de pen tool:
+- Selecteer de pentool
+- Zorg ervoor dat de pen tool in de optiebalk op shape staat en niet op path.
+- Kies een voorgrondkleur bv. rood zodat je ziet wat je tekent.
+- Vervolgens klik je ergens op jouw artboard. Ieder keer je klikt maak je een anchor. Maak bijvoorbeeld een driehoek. Een gouden regel als je de pen tool gebruikt is om zo weinig mogelijk anchor points te gebruiken dit zal ervoor zorgen dat de vorm er smooth uitziet. Om een rechte lijn te maken hou je de shift toets ingedrukt terwijl je een anchor point maakt.
+
+![Pen Tool](https://cl.ly/2C0D1c1R1b0z/Screen%20Recording%202016-10-29%20at%2002.44%20PM.gif"Pen Tool")
+
+- Om een curve te maken hou je de muis ingeklikt wanneer je een nieuw anchor point hebt gemaakt en sleep je met de muis.
+
+![Pen Tool](https://cl.ly/2y160G413M1X/Screen%20Recording%202016-10-29%20at%2002.50%20PM.gif "Pen Tool")
+
+- Een vorm is klaar wanneer je terug klikt op het beginpunt / eerste anchorpoint.
+- De vorm kan je achteraf nog aanpassen door middel van de "direct selection tool"
+
+![Pen Tool](https://cl.ly/2T1a2s151P28/Screen%20Recording%202016-10-29%20at%2003.03%20PM.gif "Pen Tool")
+
+- Achteraf kan je ook nog extra anchor points toevoegen a.d.h.v. "add anchor point"
+
+![Pen Tool](https://cl.ly/382r3v1t2t0W/Screen%20Recording%202016-10-29%20at%2003.07%20PM.gif "Pen Tool")
+
+- Op deze manier kan je ook anchor points verwijderen via de "delete anchor point" optie.
+
+![Pen Tool](https://cl.ly/1q1J1w0I2g04/Screen%20Recording%202016-10-29%20at%2003.13%20PM.gif "Pen Tool")
+
+- Je kan een zelfgemaakte vorm ook opslaan en hergebruiken dit doe je op de volgende manier. Selecteer de pen tool, rechtermuisknop op onze shape / vorm.
+
+![Pen Tool](https://cl.ly/210b2X430B3K/Screen%20Recording%202016-10-29%20at%2003.19%20PM.gif "Pen Tool")
+
+- De zelfgemaakt vorm kan je nu opnieuw gebruiken via de "custom shape tool"
+
+![Pen Tool](https://cl.ly/1u271p2Z310p/Screen%20Recording%202016-10-29%20at%2003.22%20PM.gif "Pen Tool")
+
+:zap: TIP Je kan de pen tool ook gebruiken om vector masks te maken op basis van een selectie / vorm. En zo dingen uit een foto te knippen
+
+
+### Slicing
+
+Slicing is een term die vaak wordt gebruikt in webdesign / webdevelopment.
+En betekent het opknippen van een design (vaak een design van een website) in slices die dan worden gebruikt tijdens het coderen van een website.
+
+![Voorbeeld van website voor slicing](https://cdn.tutsplus.com/webdesign/uploads/2013/07/cut-n-slice-web_template_example.png)
+
+Zoals je ziet in bovenstaand voorbeeld maakt dit design gebruik van een aantal afbeeldingen en iconen. Afbeeldingen kunnen we uiteraard niet namaken in code daarom gaan we de afbeeldingen op juiste grootte slicen zodat we deze nadien in onze HTML / CSS kunnen gebruiken.
+
+Dit design gaan we opdelen in 10 slices (10 afbeeldingen en iconen)
+
+![Voorbeeld van website voor slicing](https://cl.ly/312B3F180I2k/Image%202016-10-29%20at%204.40.00%20PM.png)
+
+Om in photoshop te slicen maken we gebruik van de "slice tool" deze vind je zoals alle andere tools in het gereedschapspanel.
+
+![Slice Tool](https://cl.ly/0b1f3Z1S0A2t/Image%202016-10-29%20at%204.47.00%20PM.png)
+
 
 
 
