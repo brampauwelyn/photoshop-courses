@@ -401,15 +401,18 @@ Hoe slicen?
 
 ![Export slices](https://cl.ly/402o153X2m37/Screen%20Recording%202016-10-30%20at%2010.04%20AM.gif)
 
-- Als we klaar zijn met alle slices de gepaste settings te geven dan kunnen we ze saven. Dit doe je door vanonder op de button save te klikken. Vervolgens opent er een nieuw venster waar je kan kiezen op welke locatie hij de afbeeldingen moet opslaan. Om te voorkomen dat hij de afbeeldingen opslaat in een nieuwe map images. Kiezen we bij settings voor other. En vinken we het vakje "Put images in folder" uit. Vervolgens klik je op save. Als je nu naar de locatie gaat waar je de images hebt opgeslaan zal je zien dat je slices in het correcte formaat werden opgeslaan.
+- Als we klaar zijn met alle slices de gepaste settings te geven dan kunnen we ze saven. Dit doe je door vanonder op de button save te klikken. Vervolgens opent er een nieuw venster waar je kan kiezen op welke locatie hij de afbeeldingen moet opslaan. Om te voorkomen dat hij de afbeeldingen opslaat in een nieuwe map images. Kiezen we bij settings voor other. En vinken we het vakje "Put images in folder" uit. Bij slices kies je voor "all slicess". Vervolgens klik je op save. Als je nu naar de locatie gaat waar je de images hebt opgeslaan zal je zien dat je slices in het correcte formaat werden opgeslaan.
 
 ![Export slices](https://cl.ly/2a0q203R0A2r/Screen%20Recording%202016-10-30%20at%2010.11%20AM.gif)
 
 
-
 :collision: Belangrijk bij het slicen is om met precisie te handelen. Er mogen geen stukken van de afbeelding worden afgesneden en er mag ook geen overbodige ruimte worden meegesliced.
 
+Becoming a non-destructive designer:
+- Probeer om zo weinig mogelijk afbeeldingen te resizen. Telkens je een afbeelding resized gaan er pixels verloren en verlies je kwaliteit. Maak daarom gebruik van een smart layer. Dit doe je door met de rechtermuisknop op de layer te klikken en vervolgens "convert to smart layer".
 
+Adjustment Layers
+Actions
 
 
 
