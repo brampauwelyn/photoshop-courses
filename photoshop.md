@@ -393,10 +393,21 @@ Hoe slicen?
 
 ![Duplicate slices](https://cl.ly/2r2p2E2h0Z2E/Screen%20Recording%202016-10-29%20at%2005.33%20PM.gif)
 
+- Eenmaal we klaar zijn met het maken van slices gaan we de rode achtergrond uitschakelen omdat we dit niet mee willen exporteren in onze images. Dit doen we door de achtergrond te verbegrgen via het oog icoontje. Gaan we de slices opslaan. Dit doen we via file > export > save for web of via de shortcut "cmd + alt + shift + s" . Vervolgens zien we een nieuw venster.
+
+![Export slices](https://cl.ly/0T1T2b1n3L0o/Screen%20Recording%202016-10-30%20at%2009.59%20AM.gif)
+
+- Vervolgens gaan we de slices een voor een selecteren en de gepaste export settings geven. Voor afbeeldingen met transparantie kies je png-24. Voor fotos (zoals de cupcakes) kies je JPG. Vervolgens pas je de kwaliteit aan en zorg je ervoor dat de bestandsgrootte zo klein mogelijk is zonder te veel kwaliteitsverlies.
+
+![Export slices](https://cl.ly/402o153X2m37/Screen%20Recording%202016-10-30%20at%2010.04%20AM.gif)
+
+- Als we klaar zijn met alle slices de gepaste settings te geven dan kunnen we ze saven. Dit doe je door vanonder op de button save te klikken. Vervolgens opent er een nieuw venster waar je kan kiezen op welke locatie hij de afbeeldingen moet opslaan. Om te voorkomen dat hij de afbeeldingen opslaat in een nieuwe map images. Kiezen we bij settings voor other. En vinken we het vakje "Put images in folder" uit. Vervolgens klik je op save. Als je nu naar de locatie gaat waar je de images hebt opgeslaan zal je zien dat je slices in het correcte formaat werden opgeslaan.
+
+![Export slices](https://cl.ly/2a0q203R0A2r/Screen%20Recording%202016-10-30%20at%2010.11%20AM.gif)
+
+
 
 :collision: Belangrijk bij het slicen is om met precisie te handelen. Er mogen geen stukken van de afbeelding worden afgesneden en er mag ook geen overbodige ruimte worden meegesliced.
-
-
 
 
 
@@ -432,6 +443,11 @@ Fill a layer:
 Group layers:
 - MAC: cmd + g
 - Windows: ctrl + g
+
+Save For Web:
+- MAC: cmd + alt + shift + s
+- Windows: ctrl + alt + shift + s
+
 
 
 ### Photoshop Shortcuts Cheat Sheet
