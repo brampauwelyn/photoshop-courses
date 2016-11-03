@@ -2,8 +2,6 @@
 
 ## Photoshop CC
 
-Start 15 november
-
 ## Inhoudsopgave
 1. Introductie
 2. Principes Photoshop
