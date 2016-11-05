@@ -17,7 +17,7 @@ Een vectorafbeelding is een grafische voorstelling die opgebouwd is uit eenvoudi
 
 Dit in tegenstelling tot een raster- of bitmapafbeelding, waarbij individuele pixels van het digitale canvas los worden ingekleurd. De resolutie voor de gekozen schaal ligt dan vast, als gevolg waarvan de afbeelding wazig of blokkerig wordt bij vergroting.
 
-Hieronder zie je het verschil tussen vector (links) en rast er (rechts)
+Hieronder zie je het verschil tussen vector (links) en raster (rechts)
 
 ![Verschil](https://upload.wikimedia.org/wikipedia/commons/3/39/Vector_vs_raster.png "")
 
@@ -30,6 +30,7 @@ Photoshop is nog altijd een veelgebruikte tool maar doordat het initieel ontwikk
 
 #### 1. Sketch 4.0
 
+[https://www.sketchapp.com/](https://www.sketchapp.com/)
 
 ![Sketch 4.0](https://www.sketchapp.com/static/images/home/app-icon.png "Sketch 4.0")
 
@@ -38,9 +39,16 @@ Sketch is tegenwoordig een heel populaire tool voor designers. Sketch legt de fo
 
 #### 2. Adobe XD (Experience Design)
 
+[http://www.adobe.com/products/experience-design.html](http://www.adobe.com/products/experience-design.html)
+
+![Adobe XD](http://www.inside.com.tw/wp-content/uploads/2016/03/Adobe-XD-Logo.png "Adobe XD")
+
 Adobe's variant op Sketch. Door de opkomst van Sketch zag Adobe steeds meer en meer designers switchen van Adoboe Photoshop / Illustrator naar Sketch. Adobe XD is redelijk recent en is nog niet helemaal op punt maar lijkt op een kopie van Sketch. Het voordeel van Adobe XD is dat het wel beschikbaar is voor Windows en Mac Os.
 
 
 #### 3. Figma
+![Figma](http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2016/06/13/figma.jpg "Figma")
 
-Figma is een nieuwe speler maar zeker één om in het oog te houden. Want het ziet er een veelbelovende tool uit.
+[https://www.figma.com/](https://www.figma.com/)
+
+Figma is een nieuwe speler maar zeker één om in het oog te houden. Want het ziet er een veelbelovende tool uit. Figma is net zoals Sketch een gebruiksvriendelijke tool voor Webdesign / Interface design. Maar het grootste voordeel van Figma is dat het online in de browser gebeurt (en kan dus gebruikt worden op zowel Windows, Mac en Linux) bovendien kan je met meerdere mensen tegelijk designen / samenwerken.
