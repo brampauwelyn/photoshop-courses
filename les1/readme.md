@@ -36,19 +36,25 @@ Photoshop is nog altijd een veelgebruikte tool maar doordat het initieel ontwikk
 
 Sketch is tegenwoordig een heel populaire tool voor designers. Sketch legt de focus op interface design en maakt het makkelijk om te designen voor verschillende schermresoluties (desktop, tablet, smartphone). Bovendien is sketch heel gebruiksvriendelijk dankzij zijn simpele interface. Sketch wordt gebruikt door designers die werken bij Google, Facebook, etc. Het grootste nadeel van Sketch is dat het enkel beschikbaar  voor Mac OS (dus niet op Windows).
 
+:eyeglasses:  [Article Design With Sketch](https://medium.com/design-with-sketch/design-with-sketch-92608a88c103#.uxovft23u)
+
 
 #### 2. Adobe XD (Experience Design)
 
 [http://www.adobe.com/products/experience-design.html](http://www.adobe.com/products/experience-design.html)
 
-![Adobe XD](http://www.inside.com.tw/wp-content/uploads/2016/03/Adobe-XD-Logo.png "Adobe XD")
+![Adobe XD](https://blogs.adobe.com/creativestation/files/2016/03/xd_preview1-1280x720.jpg "Adobe XD")
 
 Adobe's variant op Sketch. Door de opkomst van Sketch zag Adobe steeds meer en meer designers switchen van Adoboe Photoshop / Illustrator naar Sketch. Adobe XD is redelijk recent en is nog niet helemaal op punt maar lijkt op een kopie van Sketch. Het voordeel van Adobe XD is dat het wel beschikbaar is voor Windows en Mac Os.
 
 
 #### 3. Figma
-![Figma](http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2016/06/13/figma.jpg "Figma")
 
 [https://www.figma.com/](https://www.figma.com/)
 
+![Figma](http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2016/06/13/figma.jpg "Figma")
+
+
 Figma is een nieuwe speler maar zeker één om in het oog te houden. Want het ziet er een veelbelovende tool uit. Figma is net zoals Sketch een gebruiksvriendelijke tool voor Webdesign / Interface design. Maar het grootste voordeel van Figma is dat het online in de browser gebeurt (en kan dus gebruikt worden op zowel Windows, Mac en Linux) bovendien kan je met meerdere mensen tegelijk designen / samenwerken.
+
+:eyeglasses:  [Article Figma vs Sketch](https://medium.com/@mengto/figma-vs-sketch-c01e5e74eddd#.kzunurfgs)
