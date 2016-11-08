@@ -19,7 +19,7 @@ Heb zelf ook aan Syntra gestudeerd.
 Heb 2 jaar gewerkt als project mananger in een reclamebureau Wunderman.
 Werk als front-end developer bij Vandenborre.
 
-### 1. Layer Principles
+### 1. Layers
 
 #### 1.1 Getting started with layers
 Uitleg concept layers / lagen.
