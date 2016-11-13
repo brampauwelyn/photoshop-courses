@@ -159,3 +159,14 @@ Dit doe je door de laag te selecteren en op het slot-icoon te klikken.
 Om dit ongedaan te maken druk je opnieuw op het slotje.
 
 ![Lagen beveiligen](https://cl.ly/1U1R0M202w3i/Screen%20Recording%202016-11-11%20at%2004.30%20PM.gif "Lagen beveiligen")
+
+### 3.7 Blending modes 
+
+Blending modes (overvloeimodus in het nederlands) zijn leuk om te experimenteren met lagen en effecten.
+Je kan een blending mode toepassen op een laag.
+Dit doe je op de volgende manier:
+- Selecteer een laag en klik op de blending mode die je wilt selecteren.
+
+![Blending Modes](https://cl.ly/1u1N1s0z1C46/Screen%20Recording%202016-11-13%20at%2005.24%20PM.gif "Blending Modes")
+
+:zap: TIP: Je kan gemakkelijk de verschillende blending modes testen via de shortcut shift + plus teken op een mac en ctrl + plus teken op een windows.
