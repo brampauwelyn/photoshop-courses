@@ -69,7 +69,9 @@ Blending modes zijn leuk om te experimenteren met lagen en effecten.
 Er zijn een heleboel blending modes.
 Je kan een blending mode toepassen op een laag.
 Dit doe je op de volgende manier. Selecteer een laag en klik op de blending mode die je wilt selecteren.
-Je kan dit ook doen a.d.h.v. de volgende Shortcut shift + plus sign
+Je kan dit ook doen a.d.h.v. de volgende Shortcut shift + plus teken
+
+
 
 #### 1.3 Layer Styles
 Met layer styles kan je drop-shadows, strokes and gradiënten toevoegen aan een layer.

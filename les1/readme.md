@@ -88,39 +88,74 @@ Mocht je ooit per ongeluk een panel verbergen dan kan je altijd jouw workspace h
 
 ![Reset Essentials](https://cl.ly/36303k0w0q1U/Image%202016-11-08%20at%206.29.52%20PM.png "Reset Essentials")
 
+### 3.1 Introductie tot layers
 
+Open layers.psd
+In het layerspanel zie je dat het photoshop bestand bestaat uit meerdere lagen. Elke rij is een laag. Elke layer heeft een naam. Zoals al eerder vermeld is de volgorde van de lagen belangrijk.
+Je kan de volgorde van de laag aanpassen door deze naar boven of onder te slepen.
 
-Om een nieuwe laag te maken.
+![Layer Order](https://cl.ly/390m1K0v3v2N/Screen%20Recording%202016-11-11%20at%2010.10%20AM.gif "Layer Order")
+
+### 3.2 Nieuwe Laag maken
+
+Om een nieuwe laag te maken:
 In photoshop zijn er altijd verschillende manieren om iets te doen.
 Bijvoorbeeld een nieuwe laag maken kan je via het icoontje doen.
 Je kan dit ook doen via de menu > layer > new
 Je kan deze handeling ook doen via de volgende shortcut
-- op een mac shift cmd n
-- op eeen pc shift ctrl n
+- op een mac shift + cmd + n
+- op eeen pc shift + ctrl + n
 
-Volgorde van layers is zeer belangrijk
-De bovenste layer is de meest zichtbare
-De onderste minst zichtbare.
-Lagen kan je ook makkelijk herschikken
+![Make New Layer](https://cl.ly/2U1J403o1R2d/Screen%20Recording%202016-11-11%20at%2010.07%20AM.gif "Make New Layer")
 
---> Demonstratie
-
-Lagen krijgen automatisch een naam Layer 1, Layer 2, etc.
+Je zal zien dat de layers automatisch een naam krijgen: Layer 1, Layer 2, etc.
 Je kan de naam van de laag veranderen. Dit kan je doen door te dubbelklikken op de naam van de laag.
 
-Layers / Lagen kan je ook groeperen.
+![Rename Layers](https://cl.ly/2Y2u0a2D312L/Screen%20Recording%202016-11-11%20at%2010.13%20AM.gif "Group Layers")
+
+### 3.3 Lagen groeperen
+
+Layers / Lagen kan je ook groeperen
 Dit kan a.d.h.v. de volgende Shortcut
 - op een mac cmd + g (group)
 - op een windows ctrl + g (group)
 
-Lagen kan je uiteraard ook verwijderen.
+![Group Layers](https://cl.ly/2J0u0g1v0h1J/Screen%20Recording%202016-11-11%20at%2010.16%20AM.gif "Group Layers")
+
+Om de lagen / groepen overzichtelijk te maken kan je deze ook een kleur geven.
+Dit doe je door de laag te selecteren + rechtermuisknop, vervolgens geef je de laag / groep een kleur naar keuze. Je zal zien dat de lagen nu gegroepeerd werden dit kan je herkennen door het map-icoontje.
+
+![Highlight layers](https://cl.ly/3E3W0t3Z3D22/Screen%20Recording%202016-11-11%20at%2010.19%20AM.gif "Highlight layers")
+
+### 3.4 Lagen verwijderen
+
+Lagen / Groepen kan je uiteraard ook verwijderen.
 Dit kan je doen door de laag te selecteren en op backspace / delete toets te drukken.
 Je kan dit ook doen door de laag naar het vuilbak icoontje te slepen.
+Of door de layer te selecteren, rechtermuisknop, delete layer.
+
+![Delete Layers](https://cl.ly/2R0H3u2O1w3M/Screen%20Recording%202016-11-11%20at%2010.27%20AM.gif "Delete Layers")
+
+Om de laatste actie ongedaan te maken (bv. laag verwijderen) kan je dit doen via de menu > edit > gebruik je de shortcut cmd + z op een mac en ctrl + z op een windows. Om meer stappen terug te gaan gebruik je de shortcut cmd + alt + z op een mac en ctrl + alt + z op windows.
+
+![Undo](https://cl.ly/3h2k0X0c2m0s/Screen%20Recording%202016-11-11%20at%2004.15%20PM.gif "Undo")
+
+Je kan ook een overzicht opvragen van alle handelingen en zo terugkeren naar een bepaald punt.
+Dit doe je via de menu > window > history.
+
+![History](https://cl.ly/1n3y1M0O0W0D/Screen%20Recording%202016-11-11%20at%2004.18%20PM.gif "Undo")
+
+### 3.5 Lagen verbergen
 
 Lagen kan je ook verbergen. Dit doe je door het oog icoontje uit te vinken.
 De laag is nu niet meer zichtbaar. Dit kan handig zijn als je even wil zien hoe je file eruit ziet zonder deze layer zonder daarvoor die laag te verwijderen.
 
+![Lagen verbergen](https://cl.ly/3H0S2o0T2T17/Screen%20Recording%202016-11-11%20at%2004.27%20PM.gif "Lagen verbergen")
+
+### 3.6 Lagen beveiligen
 
 Je kan een laag ook beveiligen / vastzetten / locken. Zodat je niets kan veranderen aan die laag.
 Dit doe je door de laag te selecteren en op het slot-icoon te klikken.
-Om dit ongedaan te maken druk je opnieuw op het slotje
+Om dit ongedaan te maken druk je opnieuw op het slotje.
+
+![Lagen beveiligen](https://cl.ly/1U1R0M202w3i/Screen%20Recording%202016-11-11%20at%2004.30%20PM.gif "Lagen beveiligen")

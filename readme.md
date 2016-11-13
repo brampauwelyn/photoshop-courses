@@ -8,4 +8,5 @@
     - Nieuwe file maken
     - Bestanden in Photoshop openen
     - Layers / Lagen
+    - Blending Modes
 - Les 2
