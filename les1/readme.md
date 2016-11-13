@@ -32,7 +32,7 @@ Photoshop is nog altijd een veelgebruikte tool maar doordat het initieel ontwikk
 
 [https://www.sketchapp.com/](https://www.sketchapp.com/)
 
-![Sketch 4.0](https://www.sketchapp.com/static/images/home/app-icon.png "Sketch 4.0")
+![Sketch 4.0](http://chocoladesign.com/wp-content/uploads/2015/03/02-sketch-bohemian-coding-ghost-buttons.jpg "Sketch 4.0")
 
 Sketch is tegenwoordig een heel populaire tool voor designers. Sketch legt de focus op interface design en maakt het makkelijk om te designen voor verschillende schermresoluties (desktop, tablet, smartphone). Bovendien is sketch heel gebruiksvriendelijk dankzij zijn simpele interface. Sketch wordt gebruikt door designers die werken bij Google, Facebook, etc. Het grootste nadeel van Sketch is dat het enkel beschikbaar  voor Mac OS (dus niet op Windows).
 
@@ -285,7 +285,7 @@ of via de shortcut cmd + shift + i
 
 ![Oefening Les 1](https://cl.ly/0m13283m2a2K/Screen%20Recording%202016-11-13%20at%2007.53%20PM.gif "Oefening Les 1")
 
-- Selecteer de vector mask en druk op cmd op mac en ctrl op windows. Keer de selectie terug om via select > inverse selection (cmd + shift + i). Selecteer de laag met de afbeelding van de bergen.
+- Selecteer de vector mask en druk op cmd op mac en ctrl op windows. Keer de selectie terug om via select > inverse selection (cmd + shift + i). Selecteer de laag met de afbeelding van de bergen en maak een vector mask op basis van de selectie.
 
 ![Oefening Les 1](https://cl.ly/472s0W3e3W3o/Screen%20Recording%202016-11-13%20at%2009.57%20PM.gif "Oefening Les 1")
 
