@@ -72,7 +72,6 @@ Dit doe je op de volgende manier. Selecteer een laag en klik op de blending mode
 Je kan dit ook doen a.d.h.v. de volgende Shortcut shift + plus teken
 
 
-
 #### 1.3 Layer Styles
 Met layer styles kan je drop-shadows, strokes and gradiënten toevoegen aan een layer.
 
@@ -113,88 +112,8 @@ Er kan ook een combinatie worden gemaakt van pixel masks en vector Masks (dit is
 
 ##### Hoe maak je een layer Mask?
 
-- Open cactus.jpg
-- Maak de afbeelding bewerkbaar door op het slotje te klikken in de layer panel
-- Selecteer de "quick selection tool" in het gereedschappen panel
-- Maak de selectie door met de muis over het gewenste gebied te slepen, om extra delen toe te voegen aan jouw selectie maak je gebruik van de "shift-toets" om delen van je selectie te deselecteren maak je gebruik van de "alt-toets".
-
-![Create a layer mask part 1](https://cl.ly/2N3e160p2g1P/Screen%20Recording%202016-10-18%20at%2010.17%20PM.gif "Layer Masks")
-
-- Eenmaal je tevreden bent met de gemaakte selectie, klik je op het icoontje "add layer mask" in de layer panel
-- Nu zie je dat de achtergrond verborgen is en dat je een transparante achtergrond hebt.
-- Ja kan nu bijvoorbeeld een andere achtergrondkleur gebruiken door een nieuwe layer te maken en deze te vullen met een kleur.
-
-![Create a layer mask part 2](https://cl.ly/12271f1e0x1B/Screen%20Recording%202016-10-18%20at%2010.29%20PM.gif "Layer Masks")
-
-- Je kan de selectie achteraf nog verfijnen of delen van de foto terug zichtbaar maken of verbergen. Dit doe je a.d.h.v. de brush tool.
-- Selecteer de brush / penseel tool uit het gereedschappen / tools panel (dit kan ook door op de toets "b" te drukken).
-- Vervolgens bepaal je de grootte van de penseel via het menu vanboven.
-
-![Create a layer mask part 3](https://cl.ly/3m3r1V1n3L2s/Screen%20Recording%202016-10-18%20at%2010.58%20PM.gif "Layer Masks")
-
-- Om delen van de foto terug zichtbaar te maken gebruik je de penseel met witte kleur.
-- Om delen van de foto te verbergen gebruik je de penseel met zwarte achtergrond
-
-![Create a layer mask part 4](https://cl.ly/2C0O1h3u3f2Q/Screen%20Recording%202016-10-18%20at%2011.02%20PM.gif "Layer Masks")
 
 DIY
-
-##### 1.4.1 Vector Masks
-
-- Open de afbeelding orange.jpg in photoshop
-- Unlock de background
-- Maak selectie met de oval shape tool, kies voor path in de optie menu balk
-
-![Create a vector mask part 1](https://cl.ly/1B2n3Q2I0S42/Screen%20Recording%202016-10-22%20at%2010.50%20PM.gif "Create a vector mask part 1")
-
-
-- Teken de cirkel over sinaasappel. Het makkelijkste is om in het midden van de appelsien te gaan en vanuit het midden de cirkel te tekenen a.d.h.v. alt + shift. Het is niet erg als de cirkel niet 100 % op de appelsien past.
-
-![Create a vector mask part 2](https://cl.ly/2r0S1Y3G1u0n/Screen%20Recording%202016-10-23%20at%2012.23%20PM.gif "Create a vector mask part 2")
-
-
-- Je kan de selectie nadien nog makkelijk aanpassen met de direct select tool (shortcut a), klik op het pad en je zal zien dat er vierkantjes te voorschijn komen dit heten we beziers.
-
-![Create a vector mask part 3](https://cl.ly/0c2S2L2m1P2e/Screen%20Recording%202016-10-23%20at%2012.34%20PM.gif "Create a vector mask part 3")
-
-- Om de vector mask te maken ga je via de menu naar layer > vector mask > current path
-
-![Create a vector mask part 4](https://cl.ly/1U2o0q1Z3s1v/Screen%20Recording%202016-10-23%20at%2012.41%20PM.gif "Create a vector mask part 4")
-
-- Achteraf kan je nog altijd met de direct select tool (shortcut a) de selectie aanpassen.
-Door de vierkantjes te verslepen of de beziers (cirkels) aan te passen.
-
-![Create a vector mask part 5](https://cl.ly/161m1h1x2q0O/Screen%20Recording%202016-10-23%20at%2012.44%20PM.gif "Create a vector mask part 5")
-
-##### 1.4.2 Masks Gradients.
-
-- Maak een nieuw bestand, dit kan je doen via de menu menu file of via de shortcut cmd + n op mac en via ctrl + n op een windows.
-- Maak een bestand van 1200px breed op 800px hoog.
-
-![Create a gradient mask part 1](https://cl.ly/3z1v1s29131C/Screen%20Recording%202016-10-23%20at%2012.58%20PM.gif "Create a gradient mask part 1")
-
-- Plaats de afbeeldingen plant1.jpeg en plant2.jpeg in de file. Elk in een apparte layer.
-
-![Create a gradient mask part 2](https://cl.ly/3C3T2Q2t1y2M/Screen%20Recording%202016-10-23%20at%2001.02%20PM.gif "Create a gradient mask part 2")
-
-![Create a gradient mask part 3](https://cl.ly/1m0A231a140t/Screen%20Recording%202016-10-23%20at%2001.14%20PM.gif "Create a gradient mask part 3")
-
-
-- Maak een vector mask door op het icoontje te klikken in de layer panel.
-- Selecteer vervolgens de gradient tool of via de shortcut "g", selecteer een zwart naar witte gradient in de optiebalk vanboven en selecteer het gebied dat je zichtbaar wil maken.
-
-![Create a gradient mask part 4](https://cl.ly/202n2Z2w3Q2Q/Screen%20Recording%202016-10-23%20at%2001.22%20PM.gif "Create a gradient mask part 4")
-
-- Je kan de selectie achteraf nog verfijnen via bijvoorbeeld de penseel tool. Gebruik zwart om delen te verbergen en wit om delen zichtbaar te maken.
-
-![Create a gradient mask part 4](https://cl.ly/0F0M1N2f2w1Z/Screen%20Recording%202016-10-23%20at%2001.36%20PM.gif "Create a gradient mask part 4")
-
-
-Er zijn 2 Soorten gradiënten:
- 1. Lineair
- 2. Radial (radiaal)
-
-![Different kinds of gradiants](https://cl.ly/2O37113q0i3F/Image%202016-10-23%20at%201.42.26%20PM.png "Different kinds of gradiants")
 
 
 #### 1.5 Type  / Tekst

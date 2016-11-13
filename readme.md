@@ -7,6 +7,12 @@
   - Aan de slag met Photoshop
     - Nieuwe file maken
     - Bestanden in Photoshop openen
-    - Layers / Lagen
-    - Blending Modes
+  - Layers / Lagen
+  - Blending Modes
+  - Layer Masks
+    - Wat zijn Layer Masks
+    - Hoe Maak je een Layer Mask
+    - Vector Masks
+    - Maks gradiants
+  - Oefening
 - Les 2
