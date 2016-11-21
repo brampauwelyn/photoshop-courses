@@ -15,4 +15,14 @@
     - Vector Masks
     - Maks gradiants
   - Oefening
-- Les 2
+- [Les 2](https://github.com/brampauwelyn/photoshop-courses/tree/master/les2)
+  - Herhalingsoefeningen
+    - Spotify Effect
+    - Gradient Effect
+  - Slicing
+  - Tekst
+    - Lettertypes installeren
+    - Tekst op een pad
+    - Tekst in een pad
+  - De Shape Tool
+  
