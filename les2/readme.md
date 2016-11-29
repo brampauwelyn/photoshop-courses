@@ -30,11 +30,11 @@
 
 - Voeg 2 cirkels toe aan de afbeelding om het wat dynamisch te maken.
 
-![](https://cl.ly/2h44371o042d/Screen%20Recording%202016-11-20%20at%2008.13%20PM.gif)
+![Add Circles](https://cl.ly/2h44371o042d/Screen%20Recording%202016-11-20%20at%2008.13%20PM.gif)
 
 - Voeg het logo van Spotify (spotify_logo.png) toe. En geef deze een witte overlay kleur (via add layer style > color overlay > kies witte kleur).
 
-![](https://cl.ly/2F3u1t0k2P1l/Screen%20Recording%202016-11-20%20at%2008.18%20PM.gif)
+![Add Spotify Logo](https://cl.ly/2F3u1t0k2P1l/Screen%20Recording%202016-11-20%20at%2008.18%20PM.gif)
 
 
 ### 1.2 Gradient Effect
