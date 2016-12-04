@@ -180,19 +180,19 @@ Goede bronnen / websites voor kleurengebruik:
 - [Vanschneider](http://www.vanschneider.com/colors/)
 - [Coolors](https://coolors.co/6b6d76-a69888-fcbfb7-334e58-33261d)
 
-## 7. Ressources voor (web) Designers / Developers
+## 7. Ressources / Inspiratie voor (web) Designers en Developers
 
 Web design / Development is een domein die constant verandert, er komen nieuwe technologieën, nieuwe trends, etc. Daarom is het belangrijk om mee te blijven met de laatste ontwikkelingen en trends.
 
 Deze websites moeten jullie in de gaten houden:
-- Webdesignerdepot
-- Smashing magazine
-- Siteinspire
-- Dribbble
-- Behance
-- Awwwards
-- Muz.li
-- Codrops
+- [Webdesignerdepot](http://www.webdesignerdepot.com/)
+- [Smashing magazine](https://www.smashingmagazine.com/)
+- [Siteinspire](https://www.siteinspire.com/)
+- [Dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+- [Awwwards](http://www.awwwards.com/)
+- [Muz.li](http://muz.li/)
+- [Codrops](http://tympanus.net/codrops/)
 
 ## 8. Introductie websites met Photoshop maken
 
@@ -200,6 +200,6 @@ Nu jullie al een goede basis hebben van Photoshop, kunnen we een stapje verder e
 
 Zoals je al gemerkt hebben bij het slicen bestaan websites uit tekst, fotos, iconen, buttons, etc.
 
-Om even te illustreren hoe een website gemaakt wordt met Photoshop kunnen jullie de file web.psd openen. Aan de hand van dit voorbeeld kunnen jullie ook zien hoe lagen worden gestructureerd en gegroepeerd om een overzichtelijk resultaat te bekomen.
+Om even te illustreren hoe een website gemaakt wordt met Photoshop kunnen jullie de file Web.psd openen. Aan de hand van dit voorbeeld kunnen jullie ook zien hoe lagen worden gestructureerd en gegroepeerd om een overzichtelijk resultaat te bekomen.
 
 Je kan ook zien dat de profielfoto in de cirkel a.d.h.v. een clipping mask wordt gemaakt zoals in onze oefening 3.2

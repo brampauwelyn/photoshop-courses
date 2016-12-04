@@ -25,4 +25,18 @@
     - Tekst op een pad
     - Tekst in een pad
   - De Shape Tool
-  
+- [Les 3](https://github.com/brampauwelyn/photoshop-courses/tree/master/les3)
+  - Oefening
+  - Ressources voor Typografie
+  - Content Aware Tool
+    - Een element uit een foto verwijderen
+    - Spot Healing Brush Tool
+    - Content aware move tool
+  - Clipping Masks
+    - Clipping masks met Tekst
+    - Clipping masks met vormen
+  - Pen Tool
+    - Oefening op de pen tool
+  - Colors / Kleuren in Photoshop
+  - Ressources / Inspiratie voor (web) Designers en Developers
+  - Introductie websites maken met Photoshop
