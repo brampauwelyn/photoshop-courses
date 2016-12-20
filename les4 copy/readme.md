@@ -253,3 +253,5 @@ In de optiebalk kan je de instellingen van het verloop aanpassen en kan je het s
 ![Gradient Tool](https://cl.ly/1I1d0H111l1O/Image%202016-12-20%20at%206.20.05%20PM.png "Gradiënt Tool")
 
 ## 2 Oefening
+
+Verder werken aan de Sway website oefening.
