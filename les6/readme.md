@@ -7,7 +7,7 @@ Deze vind je in het gereedschapspanel boven de pen tool:
 ![Dodging & Burning](https://cl.ly/462g2l1v1v1n/Image%202017-01-08%20at%208.39.03%20PM.png)
 
 - Open dodging-and-burning.jpg
-- Maak een nieuwe layer (via shortcut ctrl + shit + n)
+- Maak een nieuwe layer (via shortcut ctrl + shift + n)
 - Vul deze met 50 % grijs, via edit fill, selecteer 50 % grijs uit dropdown menu.
 - En zet de blending mode voor de grijze laag op "soft light"
 ![Dodging and burning](https://cl.ly/2B1g2P2N1S2P/Screen%20Recording%202017-01-09%20at%2009.09%20PM.gif 'Dodgin and Burning')
