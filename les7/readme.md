@@ -1,6 +1,10 @@
 # Photoshop Les 7
 
-## 2. Opdracht (voor punten)
+## 1. Curves
+
+## 2. Verder werken aan Munchery Website
+
+## 3. Opdracht (voor punten)
 Giovanni van het gereputeerd Italiaans Restaurant "La Farfalle" (gelegen in Brussel) heeft jouw gecontacteerd om een website te maken. Hij wil zijn huidige website in een volledig nieuw jasje steken. Hij wilt dat de website net zoals zijn gerechten de authenticiteit van Italië uitstraalt maar moet er tegelijk ook moderen uitzien en mag er zeker ook niet saai uitzien. Voor de rest geeft hij jou volledige artistieke vrijheid.
 
 "La Farfalle" is vooral gekend voor zijn uitstekende canneloni.
